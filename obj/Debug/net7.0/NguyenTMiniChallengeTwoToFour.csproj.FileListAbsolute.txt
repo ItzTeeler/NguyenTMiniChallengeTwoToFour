@@ -31,3 +31,36 @@
 /Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/obj/Debug/net7.0/NguyenTMiniChallengeTwoToFour.pdb
 /Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/obj/Debug/net7.0/NguyenTMiniChallengeTwoToFour.genruntimeconfig.cache
 /Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/obj/Debug/net7.0/ref/NguyenTMiniChallengeTwoToFour.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\appsettings.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\NguyenTMiniChallengeTwoToFour.exe
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\NguyenTMiniChallengeTwoToFour.deps.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\NguyenTMiniChallengeTwoToFour.runtimeconfig.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\NguyenTMiniChallengeTwoToFour.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\NguyenTMiniChallengeTwoToFour.pdb
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.csproj.AssemblyReference.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.AssemblyInfoInputs.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.AssemblyInfo.cs
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.csproj.CoreCompileInputs.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\staticwebassets\msbuild.NguyenTMiniChallengeTwoToFour.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\staticwebassets\msbuild.build.NguyenTMiniChallengeTwoToFour.props
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NguyenTMiniChallengeTwoToFour.props
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NguyenTMiniChallengeTwoToFour.props
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\scopedcss\bundle\NguyenTMiniChallengeTwoToFour.styles.css
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.csproj.CopyComplete
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\refint\NguyenTMiniChallengeTwoToFour.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.pdb
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\NguyenTMiniChallengeTwoToFour.genruntimeconfig.cache
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\Git repo\NguyenTMiniChallengeTwoToFour\obj\Debug\net7.0\ref\NguyenTMiniChallengeTwoToFour.dll

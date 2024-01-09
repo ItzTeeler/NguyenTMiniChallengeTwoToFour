@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/NguyenTMiniChallengeTwoToFour.props" />
+  <Import Project="..\build\NguyenTMiniChallengeTwoToFour.props" />
 </Project>
