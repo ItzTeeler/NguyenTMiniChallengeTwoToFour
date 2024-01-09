@@ -16,7 +16,7 @@ namespace NguyenTMiniChallengeTwoToFour.Controllers;
 
     [HttpGet]
     [Route("LessOrGreater/{number1}/{number2}")]
-    public string LessOrGreater(double number1, double number2){
+    public string LessOrGreater(string number1, string number2){
         return _lessOrGreaterService.LessOrGreater(number1, number2);
     }
     }

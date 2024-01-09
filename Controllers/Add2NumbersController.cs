@@ -15,7 +15,7 @@ namespace NguyenTMiniChallengeTwoToFour.Controllers;
     }
         [HttpGet]
         [Route("Adding2Num/{number1}/{number2}")]
-    public double Adding2Num(double number1, double number2)
+    public string Adding2Num(string number1, string number2)
     {
         return _add2NumbersService.Adding2Num(number1, number2);
     }

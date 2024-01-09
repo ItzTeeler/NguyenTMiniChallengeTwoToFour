@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\NguyenTMiniChallengeTwoToFour\\NguyenTMiniChallengeTwoToFour.csproj": {}
+    "/Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/NguyenTMiniChallengeTwoToFour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\NguyenTMiniChallengeTwoToFour\\NguyenTMiniChallengeTwoToFour.csproj": {
+    "/Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/NguyenTMiniChallengeTwoToFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\NguyenTMiniChallengeTwoToFour\\NguyenTMiniChallengeTwoToFour.csproj",
+        "projectUniqueName": "/Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/NguyenTMiniChallengeTwoToFour.csproj",
         "projectName": "NguyenTMiniChallengeTwoToFour",
-        "projectPath": "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\NguyenTMiniChallengeTwoToFour\\NguyenTMiniChallengeTwoToFour.csproj",
-        "packagesPath": "C:\\Users\\jaykh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\NguyenTMiniChallengeTwoToFour\\obj\\",
+        "projectPath": "/Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/NguyenTMiniChallengeTwoToFour.csproj",
+        "packagesPath": "/Users/codestack/.nuget/packages/",
+        "outputPath": "/Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jaykh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/codestack/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

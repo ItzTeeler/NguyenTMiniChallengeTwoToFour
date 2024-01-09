@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "oFJm58vVxdoIhByV2jmDwMZr65xRBiFa5Q38+S5vRexx8ykMzpc9Ux7dpZaLdLMi+KzExETts0ODfsnEag1/Wg==",
+  "dgSpecHash": "NLb+3sTxPhLI1i7ulNpXoGtIovWddG+h3R0SHUG8ccF/NyCN68kSe21umXXkZTY925utuwgpC0ZnK0kw2h+0nQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaykh\\OneDrive\\Desktop\\CodeStack Academy\\Git repo\\NguyenTMiniChallengeTwoToFour\\NguyenTMiniChallengeTwoToFour.csproj",
+  "projectFilePath": "/Users/codestack/Documents/Documents - Tyler's MacBook Pro2/CodeStackLvl2/ASSIGNMENTS/NguyenTMiniChallengeTwoToFour/NguyenTMiniChallengeTwoToFour.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jaykh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
-    "C:\\Users\\jaykh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\jaykh\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\jaykh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\jaykh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\jaykh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\jaykh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/Users/codestack/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/codestack/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/codestack/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/codestack/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/codestack/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/codestack/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/codestack/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }
