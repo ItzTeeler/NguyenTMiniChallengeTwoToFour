@@ -15,9 +15,9 @@ namespace NguyenTMiniChallengeTwoToFour.Controllers;
         }
     
     [HttpGet]
-    [Route("Ask2Questions/{Whatisyourname}/{Whatisyourfavoritefood}")]
-    public string Ask2Questions(string Whatisyourname, string Whatisyourfavoritefood)
+    [Route("Ask2Questions/{Whatisyourname}/{Whattimedidyouwakeup}")]
+    public string Ask2Questions(string Whatisyourname, string Whattimedidyouwakeup)
     {
-        return _ask2QuestionsService.Ask2Questions(Whatisyourname, Whatisyourfavoritefood);
+        return _ask2QuestionsService.Ask2Questions(Whatisyourname, Whattimedidyouwakeup);
     }
     }
