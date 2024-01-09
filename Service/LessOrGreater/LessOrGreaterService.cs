@@ -2,20 +2,17 @@ namespace NguyenTMiniChallengeTwoToFour.Service.LessOrGreater;
 
 public class LessOrGreaterService : ILessOrGreaterService
 {
-    public string LessOrGreater(string number1, string number2)
+    public string LessOrGreater(double number1, double number2)
     {
-        int convertNum1 = Convert.ToInt32(number1);
-        int convertNum2 = Convert.ToInt32(number2);
-
-        if (convertNum1 > convertNum2)
+        if (number1 > number2)
         {
-            return $"{convertNum1} is greater than {convertNum2} \n {convertNum2} is less than {convertNum1}";
+            return $"{number1} is greater than {number2}. \n {number2} is less than {number1}.";
         }
-        else if (convertNum1 < convertNum2)
+        else if (number1 < number2)
         {
-            return $"{convertNum2} is greater than {convertNum1} \n {convertNum1} is less than {convertNum2}";
+            return $"{number2} is greater than {number1}. \n {number1} is less than {number2}.";
         }
         else
-            return $"{convertNum1} is equal to {convertNum2}";
+            return $"{number1} is equal to {number2}.";
     }
 }

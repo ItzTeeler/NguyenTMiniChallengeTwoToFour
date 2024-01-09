@@ -3,5 +3,5 @@ namespace NguyenTMiniChallengeTwoToFour.Service.Add2Numbers;
 
     public interface IAdd2NumbersService
     {
-        double Adding2Num(string number1, string number2);
+        double Adding2Num(double number1, double number2);
     }
